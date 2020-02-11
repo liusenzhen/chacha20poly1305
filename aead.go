@@ -21,7 +21,7 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"git.schwanenlied.me/yawning/chacha20"
+	"github.com/liusenzhen/chacha"
 	"git.schwanenlied.me/yawning/poly1305"
 )
 
