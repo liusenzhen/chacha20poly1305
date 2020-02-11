@@ -21,8 +21,8 @@ import (
 	"encoding/binary"
 	"errors"
 
-	"git.schwanenlied.me/yawning/chacha20.git"
-	"git.schwanenlied.me/yawning/poly1305.git"
+	"git.schwanenlied.me/yawning/chacha20"
+	"git.schwanenlied.me/yawning/poly1305"
 )
 
 const (
